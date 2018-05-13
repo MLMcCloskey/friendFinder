@@ -8,7 +8,7 @@ This is a fairly simple, step-by-step application that will walk you through wit
 
 - When the user clicks on Go to Survey button, it redirects them to the survey page where the first two fields require user's name and a photo of themselves.
 
-- Questions one through ten are one liners that can be answered by clicking on the drop-down menu bar and user chooses a number between one and five; one being Strongly Disagree and 5 Strongly Agree.
+- Questions one through ten are one liners that can be answered by clicking on the drop-down menu bar and user chooses a number between one and five; one being Strongly Agree and 5 Strongly Disagree.
 
 - When all questions have been answered user will click on the Submit button at the bottom of the page and after a few seconds a modal will pop up with the name and picture of the person they have been matched with.
 

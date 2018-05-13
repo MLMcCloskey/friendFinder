@@ -2,7 +2,7 @@
 var friends = [
     {
         name: "Henry the Hater",
-        photo: "https://ia.media-imdb.com/images/M/MV5BMGVmNjhlYzQtNmQ3ZS00MWFjLWI1ZWEtZjc5MWZjYjUyMmM5XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_UY317_CR175,0,214,317_AL_.jpg",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hans_Holbein%2C_the_Younger%2C_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg/330px-Hans_Holbein%2C_the_Younger%2C_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg",
         scores: [
             1,
             1,
